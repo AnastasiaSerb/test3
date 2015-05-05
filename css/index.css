@@ -1,0 +1,132 @@
+body{
+	margin: 0;
+	padding: 10px;
+	background: #b8f5f0;
+}
+.wrapper{
+	width: 1170px;
+	height: 1180px;
+	display: block;
+	margin: 50px auto;
+	 box-shadow: 0 0 10px 2px black;
+}
+nav{
+	width: 1170px;
+	height: 100px;
+	background: white;
+	padding: 20px 0 0 0;
+}
+h2{
+	float: left;
+	padding: 0 200px 0;
+}
+nav ul li{
+	display: inline-block;
+	padding: 20px;
+	
+}
+nav li a{
+	text-decoration: none;
+	font-size: 24px;
+	font-family: Calibri;
+	color: black;
+}
+header{
+	width: 1170px;
+	height: 400px;
+	background: #08b7a9;
+}
+header img{
+	margin:10px 0 0 380px; 
+	width: 400px;
+	height: auto;
+}
+header p{
+	font-size: 46px;
+	font-family: Charlemagne Std;
+	text-align: center;
+	padding-top: 20px;
+	 text-shadow:  1px 2px 2px black;
+	 color: white;
+}
+.bg{
+	width: 1170px;
+	height:400px;
+	background: white;
+}
+.about{
+	width: 250px;
+	height: 400px;
+	margin: 0 0 0 100px;
+	float: left;
+}
+.about p {
+	font-size: 24px;
+	font-family: Calubri;
+	color: black;
+
+
+
+}
+.about p{
+	padding: 20px  0 0 50px;
+	font: 24px Calibri;
+	color:black;
+	padding:  20px 0 0 100px;
+	
+	
+
+
+}
+
+.images img{
+	margin: 0 0 0 70px;
+	
+}
+.menu  {
+	width: 250px;
+	height: 400px;
+	float: left;
+	margin: 0 0 0 100px;
+	padding: 100px 0 0 50px;
+
+
+
+	
+}
+.menu,.last p{
+	font: 24px Calibri;
+	color: black;
+
+
+}
+.last {
+	width: 250px;
+	height: 400px;
+	float: left;
+	margin: 0 0 0 80px;
+	padding: 50px  0 0 50px;
+	
+}
+.contact{
+	margin: 0 0 0 100px;
+	
+}
+.contact p{
+	color: black;
+	font: 18px;
+}
+h3{
+	color: black;
+	font: 34px Arial;
+
+}
+footer{
+	width: 1170px;
+	height: 100px;
+	background: white;
+	
+}
+footer p{
+	padding: 60px  0 0 900px;
+}
